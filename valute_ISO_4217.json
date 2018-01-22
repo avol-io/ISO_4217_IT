@@ -1,0 +1,1094 @@
+[
+    {
+        "Codice": "AED",
+        "Valuta": "Dirham degli Emirati Arabi Uniti"
+    },
+    {
+        "Codice": "AFN",
+        "Valuta": "Afghani afghano"
+    },
+    {
+        "Codice": "ALL",
+        "Valuta": "Lek albanese"
+    },
+    {
+        "Codice": "AMD",
+        "Valuta": "Dram armeno"
+    },
+    {
+        "Codice": "ANG",
+        "Valuta": "Fiorino delle Antille olandesi"
+    },
+    {
+        "Codice": "AOA",
+        "Valuta": "Kwanza angolano"
+    },
+    {
+        "Codice": "ARS",
+        "Valuta": "Peso argentino"
+    },
+    {
+        "Codice": "AUD",
+        "Valuta": "Dollaro australiano"
+    },
+    {
+        "Codice": "AWG",
+        "Valuta": "Fiorino arubano"
+    },
+    {
+        "Codice": "AZN",
+        "Valuta": "Manat azero"
+    },
+    {
+        "Codice": "BAM",
+        "Valuta": "Marco bosniaco"
+    },
+    {
+        "Codice": "BBD",
+        "Valuta": "Dollaro di Barbados"
+    },
+    {
+        "Codice": "BDT",
+        "Valuta": "Taka bengalese"
+    },
+    {
+        "Codice": "BGN",
+        "Valuta": "Nuovo lev bulgaro"
+    },
+    {
+        "Codice": "BHD",
+        "Valuta": "Dinaro del Bahrain"
+    },
+    {
+        "Codice": "BIF",
+        "Valuta": "Franco del Burundi"
+    },
+    {
+        "Codice": "BMD",
+        "Valuta": "Dollaro della Bermuda"
+    },
+    {
+        "Codice": "BND",
+        "Valuta": "Dollaro del Brunei"
+    },
+    {
+        "Codice": "BOB",
+        "Valuta": "Boliviano boliviano"
+    },
+    {
+        "Codice": "BOV",
+        "Valuta": "Mvdol Boliviano (codice per i fondi)"
+    },
+    {
+        "Codice": "BRL",
+        "Valuta": "Real brasiliano"
+    },
+    {
+        "Codice": "BSD",
+        "Valuta": "Dollaro delle Bahamas"
+    },
+    {
+        "Codice": "BTN",
+        "Valuta": "Ngultrum del Bhutan"
+    },
+    {
+        "Codice": "BWP",
+        "Valuta": "Pula del Botswana"
+    },
+    {
+        "Codice": "BYR",
+        "Valuta": "Rublo bielorusso"
+    },
+    {
+        "Codice": "BZD",
+        "Valuta": "Dollaro del Belize"
+    },
+    {
+        "Codice": "CAD",
+        "Valuta": "Dollaro canadese"
+    },
+    {
+        "Codice": "CDF",
+        "Valuta": "Franco congolese"
+    },
+    {
+        "Codice": "CHE",
+        "Valuta": "WIR Euro (valuta complementare della WIR Bank)"
+    },
+    {
+        "Codice": "CHF",
+        "Valuta": "Franco svizzero"
+    },
+    {
+        "Codice": "CHW",
+        "Valuta": "WIR Franco (valuta complementare della WIR Bank)"
+    },
+    {
+        "Codice": "CLF",
+        "Valuta": "Unidades de fomento Cilena (codice per i fondi)"
+    },
+    {
+        "Codice": "CLP",
+        "Valuta": "Peso cileno"
+    },
+    {
+        "Codice": "CNY",
+        "Valuta": "Renminbi cinese (Yuan)"
+    },
+    {
+        "Codice": "COP",
+        "Valuta": "Peso colombiano"
+    },
+    {
+        "Codice": "COU",
+        "Valuta": "Unidad de Valor Real (codice per i fondi)"
+    },
+    {
+        "Codice": "CRC",
+        "Valuta": "Colón costaricano"
+    },
+    {
+        "Codice": "CUC",
+        "Valuta": "Peso cubano convertibile"
+    },
+    {
+        "Codice": "CUP",
+        "Valuta": "Peso cubano"
+    },
+    {
+        "Codice": "CVE",
+        "Valuta": "Escudo di Capo Verde"
+    },
+    {
+        "Codice": "CZK",
+        "Valuta": "Corona ceca"
+    },
+    {
+        "Codice": "DJF",
+        "Valuta": "Franco gibutiano"
+    },
+    {
+        "Codice": "DKK",
+        "Valuta": "Corona danese"
+    },
+    {
+        "Codice": "DOP",
+        "Valuta": "Peso dominicano"
+    },
+    {
+        "Codice": "DZD",
+        "Valuta": "Dinaro algerino"
+    },
+    {
+        "Codice": "EGP",
+        "Valuta": "Lira egiziana (o sterlina)"
+    },
+    {
+        "Codice": "ERN",
+        "Valuta": "Nakfa eritreo"
+    },
+    {
+        "Codice": "ETB",
+        "Valuta": "Birr etiope"
+    },
+    {
+        "Codice": "EUR",
+        "Valuta": "Euro"
+    },
+    {
+        "Codice": "FJD",
+        "Valuta": "Dollaro delle Figi"
+    },
+    {
+        "Codice": "FKP",
+        "Valuta": "Sterlina delle Falkland"
+    },
+    {
+        "Codice": "GBP",
+        "Valuta": "Sterlina britannica (o lira sterlina)"
+    },
+    {
+        "Codice": "GEL",
+        "Valuta": "Lari georgiano"
+    },
+    {
+        "Codice": "GHS",
+        "Valuta": "Cedi ghanese"
+    },
+    {
+        "Codice": "GIP",
+        "Valuta": "Sterlina di Gibilterra"
+    },
+    {
+        "Codice": "GMD",
+        "Valuta": "Dalasi gambese"
+    },
+    {
+        "Codice": "GNF",
+        "Valuta": "Franco guineano"
+    },
+    {
+        "Codice": "GTQ",
+        "Valuta": "Quetzal guatemalteco"
+    },
+    {
+        "Codice": "GYD",
+        "Valuta": "Dollaro della Guyana"
+    },
+    {
+        "Codice": "HKD",
+        "Valuta": "Dollaro di Hong Kong"
+    },
+    {
+        "Codice": "HNL",
+        "Valuta": "Lempira honduregna"
+    },
+    {
+        "Codice": "HRK",
+        "Valuta": "Kuna croata"
+    },
+    {
+        "Codice": "HTG",
+        "Valuta": "Gourde haitiano"
+    },
+    {
+        "Codice": "HUF",
+        "Valuta": "Fiorino ungherese"
+    },
+    {
+        "Codice": "IDR",
+        "Valuta": "Rupia indonesiana"
+    },
+    {
+        "Codice": "ILS",
+        "Valuta": "Nuovo siclo israeliano"
+    },
+    {
+        "Codice": "INR",
+        "Valuta": "Rupia indiana"
+    },
+    {
+        "Codice": "IQD",
+        "Valuta": "Dinaro iracheno"
+    },
+    {
+        "Codice": "IRR",
+        "Valuta": "Rial iraniano"
+    },
+    {
+        "Codice": "ISK",
+        "Valuta": "Corona islandese"
+    },
+    {
+        "Codice": "JMD",
+        "Valuta": "Dollaro giamaicano"
+    },
+    {
+        "Codice": "JOD",
+        "Valuta": "Dinaro giordano"
+    },
+    {
+        "Codice": "JPY",
+        "Valuta": "Yen"
+    },
+    {
+        "Codice": "KES",
+        "Valuta": "Scellino keniota"
+    },
+    {
+        "Codice": "KGS",
+        "Valuta": "Som kirghizo"
+    },
+    {
+        "Codice": "KHR",
+        "Valuta": "Riel cambogiano"
+    },
+    {
+        "Codice": "KMF",
+        "Valuta": "Franco delle Comore"
+    },
+    {
+        "Codice": "KPW",
+        "Valuta": "Won nordcoreano"
+    },
+    {
+        "Codice": "KRW",
+        "Valuta": "Won sudcoreano"
+    },
+    {
+        "Codice": "KWD",
+        "Valuta": "Dinaro kuwaitiano"
+    },
+    {
+        "Codice": "KYD",
+        "Valuta": "Dollaro delle Cayman"
+    },
+    {
+        "Codice": "KZT",
+        "Valuta": "Tenge kazako"
+    },
+    {
+        "Codice": "LAK",
+        "Valuta": "Kip laotiano"
+    },
+    {
+        "Codice": "LBP",
+        "Valuta": "Lira libanese (o sterlina)"
+    },
+    {
+        "Codice": "LKR",
+        "Valuta": "Rupia singalese"
+    },
+    {
+        "Codice": "LRD",
+        "Valuta": "Dollaro liberiano"
+    },
+    {
+        "Codice": "LSL",
+        "Valuta": "Loti lesothiano"
+    },
+    {
+        "Codice": "LYD",
+        "Valuta": "Dinaro libico"
+    },
+    {
+        "Codice": "MAD",
+        "Valuta": "Dirham marocchino"
+    },
+    {
+        "Codice": "MDL",
+        "Valuta": "Leu moldavo"
+    },
+    {
+        "Codice": "MGA",
+        "Valuta": "Ariary malgascio"
+    },
+    {
+        "Codice": "MKD",
+        "Valuta": "Dinaro macedone"
+    },
+    {
+        "Codice": "MMK",
+        "Valuta": "Kyat birmano"
+    },
+    {
+        "Codice": "MNT",
+        "Valuta": "Tugrik mongolo"
+    },
+    {
+        "Codice": "MOP",
+        "Valuta": "Pataca di Macao"
+    },
+    {
+        "Codice": "MRO",
+        "Valuta": "Ouguiya mauritana"
+    },
+    {
+        "Codice": "MUR",
+        "Valuta": "Rupia mauriziana"
+    },
+    {
+        "Codice": "MVR",
+        "Valuta": "Rufiyaa delle Maldive"
+    },
+    {
+        "Codice": "MWK",
+        "Valuta": "Kwacha malawiano"
+    },
+    {
+        "Codice": "MXN",
+        "Valuta": "Peso messicano"
+    },
+    {
+        "Codice": "MXV",
+        "Valuta": "Unidad de Inversion messicano (codice per i fondi)"
+    },
+    {
+        "Codice": "MYR",
+        "Valuta": "Ringgit malese"
+    },
+    {
+        "Codice": "MZN",
+        "Valuta": "Metical mozambicano"
+    },
+    {
+        "Codice": "NAD",
+        "Valuta": "Dollaro namibiano"
+    },
+    {
+        "Codice": "NGN",
+        "Valuta": "Naira nigeriana"
+    },
+    {
+        "Codice": "NIO",
+        "Valuta": "Cordoba nicaraguense"
+    },
+    {
+        "Codice": "NOK",
+        "Valuta": "Corona norvegese"
+    },
+    {
+        "Codice": "NPR",
+        "Valuta": "Rupia nepalese"
+    },
+    {
+        "Codice": "NZD",
+        "Valuta": "Dollaro neozelandese"
+    },
+    {
+        "Codice": "OMR",
+        "Valuta": "Rial dell'Oman"
+    },
+    {
+        "Codice": "PAB",
+        "Valuta": "Balboa panamense"
+    },
+    {
+        "Codice": "PEN",
+        "Valuta": "Nuevo sol peruviano"
+    },
+    {
+        "Codice": "PGK",
+        "Valuta": "Kina papuana"
+    },
+    {
+        "Codice": "PHP",
+        "Valuta": "Peso filippino"
+    },
+    {
+        "Codice": "PKR",
+        "Valuta": "Rupia pakistana"
+    },
+    {
+        "Codice": "PLN",
+        "Valuta": "Złoty polacco"
+    },
+    {
+        "Codice": "PYG",
+        "Valuta": "Guarani paraguaiano"
+    },
+    {
+        "Codice": "QAR",
+        "Valuta": "Rial del Qatar"
+    },
+    {
+        "Codice": "RON",
+        "Valuta": "Nuovo leu rumeno"
+    },
+    {
+        "Codice": "RSD",
+        "Valuta": "Dinaro serbo"
+    },
+    {
+        "Codice": "RUB",
+        "Valuta": "Rublo russo"
+    },
+    {
+        "Codice": "RWF",
+        "Valuta": "Franco ruandese"
+    },
+    {
+        "Codice": "SAR",
+        "Valuta": "Rial saudita"
+    },
+    {
+        "Codice": "SBD",
+        "Valuta": "Dollaro delle Salomone"
+    },
+    {
+        "Codice": "SCR",
+        "Valuta": "Rupia delle Seychelles"
+    },
+    {
+        "Codice": "SDG",
+        "Valuta": "Sterlina sudanese"
+    },
+    {
+        "Codice": "SEK",
+        "Valuta": "Corona svedese"
+    },
+    {
+        "Codice": "SGD",
+        "Valuta": "Dollaro di Singapore"
+    },
+    {
+        "Codice": "SHP",
+        "Valuta": "Sterlina di Sant'Elena"
+    },
+    {
+        "Codice": "SLL",
+        "Valuta": "Leone sierraleonese"
+    },
+    {
+        "Codice": "SOS",
+        "Valuta": "Scellino somalo"
+    },
+    {
+        "Codice": "SRD",
+        "Valuta": "Dollaro surinamese"
+    },
+    {
+        "Codice": "SSP",
+        "Valuta": "Sterlina sudsudanese"
+    },
+    {
+        "Codice": "STD",
+        "Valuta": "Dobra di São Tomé e Príncipe"
+    },
+    {
+        "Codice": "SYP",
+        "Valuta": "Lira siriana (o sterlina)"
+    },
+    {
+        "Codice": "SZL",
+        "Valuta": "Lilangeni dello Swaziland"
+    },
+    {
+        "Codice": "THB",
+        "Valuta": "Baht thailandese"
+    },
+    {
+        "Codice": "TJS",
+        "Valuta": "Somoni tagiko"
+    },
+    {
+        "Codice": "TMT",
+        "Valuta": "Manat turkmeno"
+    },
+    {
+        "Codice": "TND",
+        "Valuta": "Dinaro tunisino"
+    },
+    {
+        "Codice": "TOP",
+        "Valuta": "Paʻanga tongano"
+    },
+    {
+        "Codice": "TRY",
+        "Valuta": "Nuova lira turca"
+    },
+    {
+        "Codice": "TTD",
+        "Valuta": "Dollaro di Trinidad e Tobago"
+    },
+    {
+        "Codice": "TWD",
+        "Valuta": "Nuovo dollaro taiwanese"
+    },
+    {
+        "Codice": "TZS",
+        "Valuta": "Scellino tanzaniano"
+    },
+    {
+        "Codice": "UAH",
+        "Valuta": "Grivnia ucraina"
+    },
+    {
+        "Codice": "UGX",
+        "Valuta": "Scellino ugandese"
+    },
+    {
+        "Codice": "USD",
+        "Valuta": "Dollaro statunitense"
+    },
+    {
+        "Codice": "USN",
+        "Valuta": "Dollaro statunitense (Next day) (codice per i fondi)"
+    },
+    {
+        "Codice": "USS",
+        "Valuta": "Dollaro statunitense (Same day) (codice per i fondi)"
+    },
+    {
+        "Codice": "UYU",
+        "Valuta": "Peso uruguaiano"
+    },
+    {
+        "Codice": "UZS",
+        "Valuta": "Som uzbeco"
+    },
+    {
+        "Codice": "VEF",
+        "Valuta": "Bolivar venezuelano"
+    },
+    {
+        "Codice": "VND",
+        "Valuta": "Đồng vietnamita"
+    },
+    {
+        "Codice": "VUV",
+        "Valuta": "Vatu di Vanuatu"
+    },
+    {
+        "Codice": "WST",
+        "Valuta": "Tala samoano"
+    },
+    {
+        "Codice": "XAF",
+        "Valuta": "Franco CFA BEAC"
+    },
+    {
+        "Codice": "XAG",
+        "Valuta": "Argento"
+    },
+    {
+        "Codice": "XAL",
+        "Valuta": "Alluminio"
+    },
+    {
+        "Codice": "XAU",
+        "Valuta": "Oro"
+    },
+    {
+        "Codice": "XBA",
+        "Valuta": "Unità Composita Europea (EURCO) (unità per il mercato obbligazionario)"
+    },
+    {
+        "Codice": "XBB",
+        "Valuta": "Unità Monetaria Europea (E.M.U.-6) (unità per il mercato obbligazionario)"
+    },
+    {
+        "Codice": "XBC",
+        "Valuta": "Unità di acconto Europea 9 (E.U.A.-9) (unità per il mercato obbligazionario)"
+    },
+    {
+        "Codice": "XBD",
+        "Valuta": "Unità di acconto Europea 17 (E.U.A.-17) (unità per il mercato obbligazionario)"
+    },
+    {
+        "Codice": "XCD",
+        "Valuta": "Dollaro dei Caraibi Orientali"
+    },
+    {
+        "Codice": "XCP",
+        "Valuta": "Rame"
+    },
+    {
+        "Codice": "XDR",
+        "Valuta": "Diritti Speciali di Prelievo"
+    },
+    {
+        "Codice": "XFO",
+        "Valuta": "Franco-Oro (valuta speciale)"
+    },
+    {
+        "Codice": "XFU",
+        "Valuta": "Franco UIC (valuta speciale)"
+    },
+    {
+        "Codice": "XOF",
+        "Valuta": "Franco CFA BCEAO"
+    },
+    {
+        "Codice": "XPD",
+        "Valuta": "Palladio"
+    },
+    {
+        "Codice": "XPF",
+        "Valuta": "Franco CFP"
+    },
+    {
+        "Codice": "XPT",
+        "Valuta": "Platino"
+    },
+    {
+        "Codice": "XTS",
+        "Valuta": "Codice riservato a scopo di test"
+    },
+    {
+        "Codice": "XXX",
+        "Valuta": "Nessuna valuta (nessuna transazione)"
+    },
+    {
+        "Codice": "YER",
+        "Valuta": "Rial yemenita"
+    },
+    {
+        "Codice": "ZAR",
+        "Valuta": "Rand sudafricano"
+    },
+    {
+        "Codice": "ZMW",
+        "Valuta": "Kwacha zambiano"
+    },
+    {
+        "Codice": "ZWL",
+        "Valuta": "Dollaro zimbabwiano"
+    },
+    {
+        "Codice": "ADP",
+        "Valuta": "Andorra"
+    },
+    {
+        "Codice": "ADF",
+        "Valuta": "Andorra"
+    },
+    {
+        "Codice": "ATS",
+        "Valuta": "Austria"
+    },
+    {
+        "Codice": "BEF",
+        "Valuta": "Belgio"
+    },
+    {
+        "Codice": "CYP",
+        "Valuta": "Cipro"
+    },
+    {
+        "Codice": "DEM",
+        "Valuta": "Germania"
+    },
+    {
+        "Codice": "EEK",
+        "Valuta": "Estonia"
+    },
+    {
+        "Codice": "ESP",
+        "Valuta": "Spagna"
+    },
+    {
+        "Codice": "FIM",
+        "Valuta": "Finlandia"
+    },
+    {
+        "Codice": "FRF",
+        "Valuta": "Francia"
+    },
+    {
+        "Codice": "GRD",
+        "Valuta": "Grecia"
+    },
+    {
+        "Codice": "IEP",
+        "Valuta": "Irlanda"
+    },
+    {
+        "Codice": "ITL",
+        "Valuta": "Italia"
+    },
+    {
+        "Codice": "LTL",
+        "Valuta": "Lituania"
+    },
+    {
+        "Codice": "LUF",
+        "Valuta": "Lussemburgo"
+    },
+    {
+        "Codice": "LVL",
+        "Valuta": "Lettonia"
+    },
+    {
+        "Codice": "MCF",
+        "Valuta": "Principato di Monaco"
+    },
+    {
+        "Codice": "MTL",
+        "Valuta": "Malta"
+    },
+    {
+        "Codice": "NLG",
+        "Valuta": "Paesi Bassi"
+    },
+    {
+        "Codice": "PTE",
+        "Valuta": "Portogallo"
+    },
+    {
+        "Codice": "SIT",
+        "Valuta": "Slovenia"
+    },
+    {
+        "Codice": "SKK",
+        "Valuta": "Slovacchia"
+    },
+    {
+        "Codice": "SML",
+        "Valuta": "San Marino"
+    },
+    {
+        "Codice": "VAL",
+        "Valuta": "Città del Vaticano"
+    },
+    {
+        "Codice": "XEU",
+        "Valuta": "Unione europea"
+    },
+    {
+        "Codice": "AFA",
+        "Valuta": "Afghanistan"
+    },
+    {
+        "Codice": "ALK",
+        "Valuta": "Albania"
+    },
+    {
+        "Codice": "AON",
+        "Valuta": "Angola"
+    },
+    {
+        "Codice": "AOR",
+        "Valuta": "Angola"
+    },
+    {
+        "Codice": "ARA",
+        "Valuta": "Argentina"
+    },
+    {
+        "Codice": "ARL",
+        "Valuta": "Argentina"
+    },
+    {
+        "Codice": "ARM",
+        "Valuta": "Argentina"
+    },
+    {
+        "Codice": "ARP",
+        "Valuta": "Argentina"
+    },
+    {
+        "Codice": "AZM",
+        "Valuta": "Azerbaigian"
+    },
+    {
+        "Codice": "BEC",
+        "Valuta": "Belgio"
+    },
+    {
+        "Codice": "BEL",
+        "Valuta": "Belgio"
+    },
+    {
+        "Codice": "BGJ",
+        "Valuta": "Bulgaria"
+    },
+    {
+        "Codice": "BGK",
+        "Valuta": "Bulgaria"
+    },
+    {
+        "Codice": "BGL",
+        "Valuta": "Bulgaria"
+    },
+    {
+        "Codice": "BOP",
+        "Valuta": "Bolivia"
+    },
+    {
+        "Codice": "BRB",
+        "Valuta": "Brasile"
+    },
+    {
+        "Codice": "BRC",
+        "Valuta": "Brasile"
+    },
+    {
+        "Codice": "CFP",
+        "Valuta": "Polinesia Francese"
+    },
+    {
+        "Codice": "CNX",
+        "Valuta": "Cina"
+    },
+    {
+        "Codice": "CSD",
+        "Valuta": "Serbia"
+    },
+    {
+        "Codice": "CSJ",
+        "Valuta": "Cecoslovacchia"
+    },
+    {
+        "Codice": "CSK",
+        "Valuta": "Cecoslovacchia"
+    },
+    {
+        "Codice": "DDM",
+        "Valuta": "Repubblica Democratica Tedesca"
+    },
+    {
+        "Codice": "ECS",
+        "Valuta": "Ecuador"
+    },
+    {
+        "Codice": "ECV",
+        "Valuta": "Ecuador"
+    },
+    {
+        "Codice": "EQE",
+        "Valuta": "Guinea Equatoriale"
+    },
+    {
+        "Codice": "ESA",
+        "Valuta": "Spagna"
+    },
+    {
+        "Codice": "ESB",
+        "Valuta": "Spagna"
+    },
+    {
+        "Codice": "GNE",
+        "Valuta": "Guinea"
+    },
+    {
+        "Codice": "GWP",
+        "Valuta": "Guinea-Bissau"
+    },
+    {
+        "Codice": "HRD",
+        "Valuta": "Croazia"
+    },
+    {
+        "Codice": "ILP",
+        "Valuta": "Israele"
+    },
+    {
+        "Codice": "ILR",
+        "Valuta": "Israele"
+    },
+    {
+        "Codice": "ISJ",
+        "Valuta": "Islanda"
+    },
+    {
+        "Codice": "LAJ",
+        "Valuta": "Laos"
+    },
+    {
+        "Codice": "MAF",
+        "Valuta": "Mali"
+    },
+    {
+        "Codice": "MGF",
+        "Valuta": "Madagascar"
+    },
+    {
+        "Codice": "MKN",
+        "Valuta": "Repubblica di Macedonia"
+    },
+    {
+        "Codice": "MVQ",
+        "Valuta": "Maldive"
+    },
+    {
+        "Codice": "MXP",
+        "Valuta": "Messico"
+    },
+    {
+        "Codice": "MZM",
+        "Valuta": "Mozambico"
+    },
+    {
+        "Codice": "PEH",
+        "Valuta": "Perù"
+    },
+    {
+        "Codice": "PEI",
+        "Valuta": "Perù"
+    },
+    {
+        "Codice": "PLZ",
+        "Valuta": "Polonia"
+    },
+    {
+        "Codice": "ROK",
+        "Valuta": "Romania"
+    },
+    {
+        "Codice": "ROL",
+        "Valuta": "Romania"
+    },
+    {
+        "Codice": "RUR",
+        "Valuta": "Russia"
+    },
+    {
+        "Codice": "SDD",
+        "Valuta": "Sudan"
+    },
+    {
+        "Codice": "SRG",
+        "Valuta": "Suriname"
+    },
+    {
+        "Codice": "SUR",
+        "Valuta": "Unione Sovietica"
+    },
+    {
+        "Codice": "SVC",
+        "Valuta": "El Salvador"
+    },
+    {
+        "Codice": "TJR",
+        "Valuta": "Tagikistan"
+    },
+    {
+        "Codice": "TPE",
+        "Valuta": "Timor Est"
+    },
+    {
+        "Codice": "TRL",
+        "Valuta": "Turchia"
+    },
+    {
+        "Codice": "UAK",
+        "Valuta": "Ucraina"
+    },
+    {
+        "Codice": "UGW",
+        "Valuta": "Uganda"
+    },
+    {
+        "Codice": "UYN",
+        "Valuta": "Uruguay"
+    },
+    {
+        "Codice": "VNC",
+        "Valuta": "Vietnam"
+    },
+    {
+        "Codice": "YDD",
+        "Valuta": "Yemen del Sud"
+    },
+    {
+        "Codice": "YUD",
+        "Valuta": "Jugoslavia"
+    },
+    {
+        "Codice": "YUN",
+        "Valuta": "Jugoslavia"
+    },
+    {
+        "Codice": "YUM",
+        "Valuta": "Jugoslavia"
+    },
+    {
+        "Codice": "ZAL",
+        "Valuta": "Sudafrica"
+    },
+    {
+        "Codice": "ZRN",
+        "Valuta": "Zaire"
+    },
+    {
+        "Codice": "ZRZ",
+        "Valuta": "Zaire"
+    },
+    {
+        "Codice": "ZWC",
+        "Valuta": "Rhodesia"
+    },
+    {
+        "Codice": "ZWD",
+        "Valuta": "Zimbabwe"
+    },
+    {
+        "Codice": "ZWN",
+        "Valuta": "Zimbabwe"
+    },
+    {
+        "Codice": "ZWR",
+        "Valuta": "Zimbabwe"
+    }
+]
