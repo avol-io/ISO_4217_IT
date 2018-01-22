@@ -717,359 +717,359 @@
     },
     {
         "Codice": "ADP",
-        "Valuta": "Andorra"
+        "Valuta": "Peseta Andorrana (agganciata 1:1 a ESP)"
     },
     {
         "Codice": "ADF",
-        "Valuta": "Andorra"
+        "Valuta": "Franco Andorrano (agganciata 1:1 a FRF)"
     },
     {
         "Codice": "ATS",
-        "Valuta": "Austria"
+        "Valuta": "Scellino austriaco"
     },
     {
         "Codice": "BEF",
-        "Valuta": "Belgio"
+        "Valuta": "Franco belga (unione monetaria con LUF)"
     },
     {
         "Codice": "CYP",
-        "Valuta": "Cipro"
+        "Valuta": "Lira cipriota (o sterlina)"
     },
     {
         "Codice": "DEM",
-        "Valuta": "Germania"
+        "Valuta": "Marco tedesco"
     },
     {
         "Codice": "EEK",
-        "Valuta": "Estonia"
+        "Valuta": "Corona estone"
     },
     {
         "Codice": "ESP",
-        "Valuta": "Spagna"
+        "Valuta": "Peseta spagnola"
     },
     {
         "Codice": "FIM",
-        "Valuta": "Finlandia"
+        "Valuta": "Marco finlandese"
     },
     {
         "Codice": "FRF",
-        "Valuta": "Francia"
+        "Valuta": "Franco francese"
     },
     {
         "Codice": "GRD",
-        "Valuta": "Grecia"
+        "Valuta": "Dracma greca"
     },
     {
         "Codice": "IEP",
-        "Valuta": "Irlanda"
+        "Valuta": "Sterlina irlandese"
     },
     {
         "Codice": "ITL",
-        "Valuta": "Italia"
+        "Valuta": "Lira italiana"
     },
     {
         "Codice": "LTL",
-        "Valuta": "Lituania"
+        "Valuta": "Lita lituano"
     },
     {
         "Codice": "LUF",
-        "Valuta": "Lussemburgo"
+        "Valuta": "Franco lussemburghese (unione monetaria con BEF)"
     },
     {
         "Codice": "LVL",
-        "Valuta": "Lettonia"
+        "Valuta": "Lats lettone"
     },
     {
         "Codice": "MCF",
-        "Valuta": "Principato di Monaco"
+        "Valuta": "Franco monegasco (unione monetaria con FRF)"
     },
     {
         "Codice": "MTL",
-        "Valuta": "Malta"
+        "Valuta": "Lira maltese"
     },
     {
         "Codice": "NLG",
-        "Valuta": "Paesi Bassi"
+        "Valuta": "Fiorino olandese"
     },
     {
         "Codice": "PTE",
-        "Valuta": "Portogallo"
+        "Valuta": "Escudo portoghese"
     },
     {
         "Codice": "SIT",
-        "Valuta": "Slovenia"
+        "Valuta": "Tallero sloveno"
     },
     {
         "Codice": "SKK",
-        "Valuta": "Slovacchia"
+        "Valuta": "Corona slovacca"
     },
     {
         "Codice": "SML",
-        "Valuta": "San Marino"
+        "Valuta": "Lira sammarinese"
     },
     {
         "Codice": "VAL",
-        "Valuta": "Città del Vaticano"
+        "Valuta": "Lira vaticana"
     },
     {
         "Codice": "XEU",
-        "Valuta": "Unione europea"
+        "Valuta": "Unità di Conto Europea (1 XEU = 1 EUR)"
     },
     {
         "Codice": "AFA",
-        "Valuta": "Afghanistan"
+        "Valuta": "Afghani afghano"
     },
     {
         "Codice": "ALK",
-        "Valuta": "Albania"
+        "Valuta": "Lek albanese vecchio"
     },
     {
         "Codice": "AON",
-        "Valuta": "Angola"
+        "Valuta": "Nuovo Kwanza angolano"
     },
     {
         "Codice": "AOR",
-        "Valuta": "Angola"
+        "Valuta": "Kwanza angolano Readjustado"
     },
     {
         "Codice": "ARA",
-        "Valuta": "Argentina"
+        "Valuta": "Austral argentino"
     },
     {
         "Codice": "ARL",
-        "Valuta": "Argentina"
+        "Valuta": "Peso argentino ley"
     },
     {
         "Codice": "ARM",
-        "Valuta": "Argentina"
+        "Valuta": "Peso argentino moneta nazionale"
     },
     {
         "Codice": "ARP",
-        "Valuta": "Argentina"
+        "Valuta": "Peso argentino"
     },
     {
         "Codice": "AZM",
-        "Valuta": "Azerbaigian"
+        "Valuta": "Manat azero"
     },
     {
         "Codice": "BEC",
-        "Valuta": "Belgio"
+        "Valuta": "Franco belga (convertibile)"
     },
     {
         "Codice": "BEL",
-        "Valuta": "Belgio"
+        "Valuta": "Franco belga (finanziario)"
     },
     {
         "Codice": "BGJ",
-        "Valuta": "Bulgaria"
+        "Valuta": "Lev bulgaro fino al 1952"
     },
     {
         "Codice": "BGK",
-        "Valuta": "Bulgaria"
+        "Valuta": "Lev bulgaro fino al 1962"
     },
     {
         "Codice": "BGL",
-        "Valuta": "Bulgaria"
+        "Valuta": "Lev bulgaro fino al 1999"
     },
     {
         "Codice": "BOP",
-        "Valuta": "Bolivia"
+        "Valuta": "Peso boliviano"
     },
     {
         "Codice": "BRB",
-        "Valuta": "Brasile"
+        "Valuta": "Cruzeiro brasiliano"
     },
     {
         "Codice": "BRC",
-        "Valuta": "Brasile"
+        "Valuta": "Cruzado brasiliano"
     },
     {
         "Codice": "CFP",
-        "Valuta": "Polinesia Francese"
+        "Valuta": "Franco CFP"
     },
     {
         "Codice": "CNX",
-        "Valuta": "Cina"
+        "Valuta": "Dollaro delle banche cinesi"
     },
     {
         "Codice": "CSD",
-        "Valuta": "Serbia"
+        "Valuta": "Dinaro serbo fino al 2006"
     },
     {
         "Codice": "CSJ",
-        "Valuta": "Cecoslovacchia"
+        "Valuta": "Corona cecoslovacca fino al 1953"
     },
     {
         "Codice": "CSK",
-        "Valuta": "Cecoslovacchia"
+        "Valuta": "Corona cecoslovacca"
     },
     {
         "Codice": "DDM",
-        "Valuta": "Repubblica Democratica Tedesca"
+        "Valuta": "Marco della Repubblica Democratica Tedesca"
     },
     {
         "Codice": "ECS",
-        "Valuta": "Ecuador"
+        "Valuta": "Sucre ecuadoriano"
     },
     {
         "Codice": "ECV",
-        "Valuta": "Ecuador"
+        "Valuta": "Unidad de Valor Constante (codice per i fondi)"
     },
     {
         "Codice": "EQE",
-        "Valuta": "Guinea Equatoriale"
+        "Valuta": "Ekwele della Guinea Equatoriale"
     },
     {
         "Codice": "ESA",
-        "Valuta": "Spagna"
+        "Valuta": "Peseta spagnola (conto A)"
     },
     {
         "Codice": "ESB",
-        "Valuta": "Spagna"
+        "Valuta": "Peseta spagnola (conto B)"
     },
     {
         "Codice": "GNE",
-        "Valuta": "Guinea"
+        "Valuta": "Syli guineano"
     },
     {
         "Codice": "GWP",
-        "Valuta": "Guinea-Bissau"
+        "Valuta": "Peso guineano"
     },
     {
         "Codice": "HRD",
-        "Valuta": "Croazia"
+        "Valuta": "Dinaro croato"
     },
     {
         "Codice": "ILP",
-        "Valuta": "Israele"
+        "Valuta": "Sterlina israeliana"
     },
     {
         "Codice": "ILR",
-        "Valuta": "Israele"
+        "Valuta": "Vecchio siclo israeliano"
     },
     {
         "Codice": "ISJ",
-        "Valuta": "Islanda"
+        "Valuta": "Corona islandese vecchia"
     },
     {
         "Codice": "LAJ",
-        "Valuta": "Laos"
+        "Valuta": "Kip laotiano - Pot Pol"
     },
     {
         "Codice": "MAF",
-        "Valuta": "Mali"
+        "Valuta": "Franco del Mali"
     },
     {
         "Codice": "MGF",
-        "Valuta": "Madagascar"
+        "Valuta": "Franco malgascio"
     },
     {
         "Codice": "MKN",
-        "Valuta": "Repubblica di Macedonia"
+        "Valuta": "Dinaro macedone fino al 1993"
     },
     {
         "Codice": "MVQ",
-        "Valuta": "Maldive"
+        "Valuta": "Rupia delle Maldive"
     },
     {
         "Codice": "MXP",
-        "Valuta": "Messico"
+        "Valuta": "Peso messicano"
     },
     {
         "Codice": "MZM",
-        "Valuta": "Mozambico"
+        "Valuta": "Metical mozambicano"
     },
     {
         "Codice": "PEH",
-        "Valuta": "Perù"
+        "Valuta": "Sol peruviano"
     },
     {
         "Codice": "PEI",
-        "Valuta": "Perù"
+        "Valuta": "Inti peruviano"
     },
     {
         "Codice": "PLZ",
-        "Valuta": "Polonia"
+        "Valuta": "Złoty polacco fino al 1994"
     },
     {
         "Codice": "ROK",
-        "Valuta": "Romania"
+        "Valuta": "Leu rumeno fino al 1952"
     },
     {
         "Codice": "ROL",
-        "Valuta": "Romania"
+        "Valuta": "Leu rumeno fino al 2005"
     },
     {
         "Codice": "RUR",
-        "Valuta": "Russia"
+        "Valuta": "Rublo russo"
     },
     {
         "Codice": "SDD",
-        "Valuta": "Sudan"
+        "Valuta": "Dinaro sudanese fino al 2007"
     },
     {
         "Codice": "SRG",
-        "Valuta": "Suriname"
+        "Valuta": "Fiorino surinamese"
     },
     {
         "Codice": "SUR",
-        "Valuta": "Unione Sovietica"
+        "Valuta": "Rublo sovietico"
     },
     {
         "Codice": "SVC",
-        "Valuta": "El Salvador"
+        "Valuta": "Colón salvadoregno"
     },
     {
         "Codice": "TJR",
-        "Valuta": "Tagikistan"
+        "Valuta": "Rublo tagico"
     },
     {
         "Codice": "TPE",
-        "Valuta": "Timor Est"
+        "Valuta": "Escudo timorese"
     },
     {
         "Codice": "TRL",
-        "Valuta": "Turchia"
+        "Valuta": "Lira turca fino al 2005"
     },
     {
         "Codice": "UAK",
-        "Valuta": "Ucraina"
+        "Valuta": "Karbovanec' ucraino"
     },
     {
         "Codice": "UGW",
-        "Valuta": "Uganda"
+        "Valuta": "Scellino ugandese vecchio"
     },
     {
         "Codice": "UYN",
-        "Valuta": "Uruguay"
+        "Valuta": "Peso uruguaiano vecchio"
     },
     {
         "Codice": "VNC",
-        "Valuta": "Vietnam"
+        "Valuta": "Đồng vietnamita vecchio"
     },
     {
         "Codice": "YDD",
-        "Valuta": "Yemen del Sud"
+        "Valuta": "Dinaro yemenita"
     },
     {
         "Codice": "YUD",
-        "Valuta": "Jugoslavia"
+        "Valuta": "Dinaro iugoslavo pesante"
     },
     {
         "Codice": "YUN",
-        "Valuta": "Jugoslavia"
+        "Valuta": "Dinaro iugoslavo convertibile"
     },
     {
         "Codice": "YUM",
-        "Valuta": "Jugoslavia"
+        "Valuta": "Nuovo dinaro iugoslavo"
     },
     {
         "Codice": "ZAL",
-        "Valuta": "Sudafrica"
+        "Valuta": "Rand sudafricano (finanziario) (codice per i fondi)"
     },
     {
         "Codice": "ZRN",
-        "Valuta": "Zaire"
+        "Valuta": "Nuovo Zaire"
     },
     {
         "Codice": "ZRZ",
@@ -1077,18 +1077,18 @@
     },
     {
         "Codice": "ZWC",
-        "Valuta": "Rhodesia"
+        "Valuta": "Dollaro rhodesiano"
     },
     {
         "Codice": "ZWD",
-        "Valuta": "Zimbabwe"
+        "Valuta": "Dollaro zimbabwiano"
     },
     {
         "Codice": "ZWN",
-        "Valuta": "Zimbabwe"
+        "Valuta": "Dollaro zimbabwiano"
     },
     {
         "Codice": "ZWR",
-        "Valuta": "Zimbabwe"
+        "Valuta": "Dollaro zimbabwiano"
     }
 ]

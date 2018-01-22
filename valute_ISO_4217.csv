@@ -178,97 +178,97 @@ YER,Rial yemenita
 ZAR,Rand sudafricano
 ZMW,Kwacha zambiano
 ZWL,Dollaro zimbabwiano
-ADP,Andorra
-ADF,Andorra
-ATS,Austria
-BEF,Belgio
-CYP,Cipro
-DEM,Germania
-EEK,Estonia
-ESP,Spagna
-FIM,Finlandia
-FRF,Francia
-GRD,Grecia
-IEP,Irlanda
-ITL,Italia
-LTL,Lituania
-LUF,Lussemburgo
-LVL,Lettonia
-MCF,Principato di Monaco
-MTL,Malta
-NLG,Paesi Bassi
-PTE,Portogallo
-SIT,Slovenia
-SKK,Slovacchia
-SML,San Marino
-VAL,Città del Vaticano
-XEU,Unione europea
-AFA,Afghanistan
-ALK,Albania
-AON,Angola
-AOR,Angola
-ARA,Argentina
-ARL,Argentina
-ARM,Argentina
-ARP,Argentina
-AZM,Azerbaigian
-BEC,Belgio
-BEL,Belgio
-BGJ,Bulgaria
-BGK,Bulgaria
-BGL,Bulgaria
-BOP,Bolivia
-BRB,Brasile
-BRC,Brasile
-CFP,Polinesia Francese
-CNX,Cina
-CSD,Serbia
-CSJ,Cecoslovacchia
-CSK,Cecoslovacchia
-DDM,Repubblica Democratica Tedesca
-ECS,Ecuador
-ECV,Ecuador
-EQE,Guinea Equatoriale
-ESA,Spagna
-ESB,Spagna
-GNE,Guinea
-GWP,Guinea-Bissau
-HRD,Croazia
-ILP,Israele
-ILR,Israele
-ISJ,Islanda
-LAJ,Laos
-MAF,Mali
-MGF,Madagascar
-MKN,Repubblica di Macedonia
-MVQ,Maldive
-MXP,Messico
-MZM,Mozambico
-PEH,Perù
-PEI,Perù
-PLZ,Polonia
-ROK,Romania
-ROL,Romania
-RUR,Russia
-SDD,Sudan
-SRG,Suriname
-SUR,Unione Sovietica
-SVC,El Salvador
-TJR,Tagikistan
-TPE,Timor Est
-TRL,Turchia
-UAK,Ucraina
-UGW,Uganda
-UYN,Uruguay
-VNC,Vietnam
-YDD,Yemen del Sud
-YUD,Jugoslavia
-YUN,Jugoslavia
-YUM,Jugoslavia
-ZAL,Sudafrica
-ZRN,Zaire
+ADP,Peseta Andorrana (agganciata 1:1 a ESP)
+ADF,Franco Andorrano (agganciata 1:1 a FRF)
+ATS,Scellino austriaco
+BEF,Franco belga (unione monetaria con LUF)
+CYP,Lira cipriota (o sterlina)
+DEM,Marco tedesco
+EEK,Corona estone
+ESP,Peseta spagnola
+FIM,Marco finlandese
+FRF,Franco francese
+GRD,Dracma greca
+IEP,Sterlina irlandese
+ITL,Lira italiana
+LTL,Lita lituano
+LUF,Franco lussemburghese (unione monetaria con BEF)
+LVL,Lats lettone
+MCF,Franco monegasco (unione monetaria con FRF)
+MTL,Lira maltese
+NLG,Fiorino olandese
+PTE,Escudo portoghese
+SIT,Tallero sloveno
+SKK,Corona slovacca
+SML,Lira sammarinese
+VAL,Lira vaticana
+XEU,Unità di Conto Europea (1 XEU = 1 EUR)
+AFA,Afghani afghano
+ALK,Lek albanese vecchio
+AON,Nuovo Kwanza angolano
+AOR,Kwanza angolano Readjustado
+ARA,Austral argentino
+ARL,Peso argentino ley
+ARM,Peso argentino moneta nazionale
+ARP,Peso argentino
+AZM,Manat azero
+BEC,Franco belga (convertibile)
+BEL,Franco belga (finanziario)
+BGJ,Lev bulgaro fino al 1952
+BGK,Lev bulgaro fino al 1962
+BGL,Lev bulgaro fino al 1999
+BOP,Peso boliviano
+BRB,Cruzeiro brasiliano
+BRC,Cruzado brasiliano
+CFP,Franco CFP
+CNX,Dollaro delle banche cinesi
+CSD,Dinaro serbo fino al 2006
+CSJ,Corona cecoslovacca fino al 1953
+CSK,Corona cecoslovacca
+DDM,Marco della Repubblica Democratica Tedesca
+ECS,Sucre ecuadoriano
+ECV,Unidad de Valor Constante (codice per i fondi)
+EQE,Ekwele della Guinea Equatoriale
+ESA,Peseta spagnola (conto A)
+ESB,Peseta spagnola (conto B)
+GNE,Syli guineano
+GWP,Peso guineano
+HRD,Dinaro croato
+ILP,Sterlina israeliana
+ILR,Vecchio siclo israeliano
+ISJ,Corona islandese vecchia
+LAJ,Kip laotiano - Pot Pol
+MAF,Franco del Mali
+MGF,Franco malgascio
+MKN,Dinaro macedone fino al 1993
+MVQ,Rupia delle Maldive
+MXP,Peso messicano
+MZM,Metical mozambicano
+PEH,Sol peruviano
+PEI,Inti peruviano
+PLZ,Złoty polacco fino al 1994
+ROK,Leu rumeno fino al 1952
+ROL,Leu rumeno fino al 2005
+RUR,Rublo russo
+SDD,Dinaro sudanese fino al 2007
+SRG,Fiorino surinamese
+SUR,Rublo sovietico
+SVC,Colón salvadoregno
+TJR,Rublo tagico
+TPE,Escudo timorese
+TRL,Lira turca fino al 2005
+UAK,Karbovanec' ucraino
+UGW,Scellino ugandese vecchio
+UYN,Peso uruguaiano vecchio
+VNC,Đồng vietnamita vecchio
+YDD,Dinaro yemenita
+YUD,Dinaro iugoslavo pesante
+YUN,Dinaro iugoslavo convertibile
+YUM,Nuovo dinaro iugoslavo
+ZAL,Rand sudafricano (finanziario) (codice per i fondi)
+ZRN,Nuovo Zaire
 ZRZ,Zaire
-ZWC,Rhodesia
-ZWD,Zimbabwe
-ZWN,Zimbabwe
-ZWR,Zimbabwe
+ZWC,Dollaro rhodesiano
+ZWD,Dollaro zimbabwiano
+ZWN,Dollaro zimbabwiano
+ZWR,Dollaro zimbabwiano
